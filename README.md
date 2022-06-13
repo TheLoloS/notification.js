@@ -23,7 +23,7 @@ import notification from "./notification.js";
 
 ## Demo
 
-- [Watch Demo](https://www.facebook.com/profile.php?id=100012934778074)
+- [Watch Demo](https://thelolos.github.io/notification.js/)
 
 ## Authors
 
